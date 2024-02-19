@@ -21,7 +21,6 @@
 		<sonar.host.url>http://51.21.149.86:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
-		<sonar.java.binaries>target/classes</sonar.java.binaries>
 	</properties>
 
 	<dependencyManagement>
