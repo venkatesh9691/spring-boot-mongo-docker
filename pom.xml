@@ -94,4 +94,16 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	distributionManagement>
+		 <snapshotRepository>
+		    <id>nexusRepo</id>
+		    <url>http:/13.49.226.245:8081/repository/venkatesh/</url>
+		 </snapshotRepository>
+		
+		<repository>
+		    <id>nexusRepo</id>
+		    <url>http:/13.49.226.245:8081/repository/venkatesh/</url>
+		</repository>
+  	</distributionManagement>
 </project>
