@@ -98,12 +98,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://51.20.105.231:8081/repository/venkateshmaha/</url>
+		    <url>http://51.20.182.250:8081/repository/venkatesh/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://51.20.105.231:8081/repository/venkateshmaha/</url>
+		    <url>http://51.20.182.250:8081/repository/venkatesh/</url>
 		</repository>
   	</distributionManagement>
 </project>
